@@ -1,8 +1,9 @@
+**NOTE: This fork removes AFNetworking dependency, and removes Done button image to use a plain text button instead.**
+
 MHFacebookImageViewer
 =======================
 
 A new Image Viewer inspired by Facebook
-*NOTE: This fork removes AFNetworking dependency, and removes Done button image to use a plain text button instead.*
 
 ## Screenshots
 
