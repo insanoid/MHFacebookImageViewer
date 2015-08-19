@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
   s.author = 'Michael Henry Pantaleon', 'michaelhenry119@yahoo.com.ph'
   s.source = {
     :git => 'https://github.com/insanoid/MHFacebookImageViewer.git',
-    :tag => s.version.to_s
+    :commit => '3799d381059e5b2241b33abf3add38d970d796b2'
   }
   s.platform = :ios, '5.0'
   s.source_files = 'MHFBImageViewController/*.{h,m}'
